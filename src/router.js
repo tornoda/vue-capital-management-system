@@ -9,6 +9,7 @@ import Home from './components/Home.vue'
 import Fundlist from './components/Fundlist.vue'
 import vue from './main.js';
 
+//使得<router-view> and <router-link>可用
 Vue.use(Router)
 
 const router = new Router({

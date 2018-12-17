@@ -3,7 +3,7 @@
 ## 介绍
 
 这是一个使用vuecli 3.x编写的一个资金管理系统(SPA), 后端使用nodejs提供数据接口。
-后端地址：点我跳转
+后端地址：[点我跳转](git@github.com:tornoda/apiProvider-nodejs.git)
 
 ## 使用技术栈
 
